@@ -4,13 +4,13 @@ A responsive **Student Registration Form** built using **HTML** and **Bootstrap*
 
 ---
 
-## 📄 Project Description
+## Project Description
 
 This project demonstrates a simple yet elegant registration form for students. It includes input fields for essential student details such as name, email, age, gender, course, and more. The form uses **Bootstrap** for styling, making it responsive on all devices.
 
 ---
 
-## ✨ Features
+## Features
 
 - Responsive design using **Bootstrap 5**
 - Validated input fields (HTML5 validation)
